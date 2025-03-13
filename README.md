@@ -69,7 +69,7 @@
   
   <img width="70%" src="https://leetcard.jacoblin.cool/wilderTorres18?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
 
-  [![Codewars](https://www.codewars.com/users/TU_CODEWARS/badges/large)](https://www.codewars.com/users/TU_CODEWARS)
+  [![Codewars](https://www.codewars.com/users/wilderTorres18/badges/large)](https://www.codewars.com/users/wilderTorres18)
   
   <br/>
   
