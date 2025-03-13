@@ -62,7 +62,7 @@
   <br/><br/>
 
   <a href="https://github.com/wilderTorres18">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wilderTorres18&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
   </a>
   
   <br/><br/>
