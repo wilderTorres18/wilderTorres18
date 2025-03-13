@@ -37,9 +37,7 @@
 <div align="center">
 
   <h3>📊 Wilder Torres' Awesome GitHub Stats</h3>
-<!--   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Wilder Torres' Awesome GitHub Stats" width="600"/>
-  </a> -->
+
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/wilderTorres18?cardType=github&theme=github-dark">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/wilderTorres18?cardType=github&theme=github-dark&preferLogin=false" 
        alt="Mis estadísticas de GitHub" width="600"/>
@@ -64,12 +62,12 @@
   <br/><br/>
 
   <a href="https://github.com/wilderTorres18">
-    <img src="https://github-profile-trophy.vercel.app/?username=wilderTorres18&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
   </a>
   
   <br/><br/>
   
-  <img width="70%" src="https://leetcard.jacoblin.cool/anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="70%" src="https://leetcard.jacoblin.cool/wilderTorres18?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
   <br/>
   
