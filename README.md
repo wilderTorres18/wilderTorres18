@@ -67,7 +67,7 @@
   
   <br/><br/>
   
-  <img width="70%" src="https://leetcard.jacoblin.cool/wilderTorres18?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="70%" src="https://leetcard.jacoblin.cool/Anuj3553?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
   
   <br/>
   
