@@ -37,8 +37,12 @@
 <div align="center">
 
   <h3>📊 Wilder Torres' Awesome GitHub Stats</h3>
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark">
+<!--   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Wilder Torres' Awesome GitHub Stats" width="600"/>
+  </a> -->
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/wilderTorres18?cardType=github&theme=github-dark">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/wilderTorres18?cardType=github&theme=github-dark&preferLogin=false" 
+       alt="Mis estadísticas de GitHub" width="600"/>
   </a>
 
   <!-- <h3>🔥 GitHub Streak 🔥</h3>
