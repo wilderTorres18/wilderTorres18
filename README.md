@@ -53,18 +53,18 @@
   <!-- <br/> -->
   
   <h3>📈 Profile Summary</h3>
-  <a href="https://github.com/Anuj3553">
-    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj3553&theme=radical" alt="Profile Summary">
+  <a href="https://github.com/wilderTorres18">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wilderTorres18&theme=radical" alt="Profile Summary">
   </a>
   
-  <a href="https://github.com/Anuj3553">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj3553&layout=compact&theme=dark" alt="Anuj3553's most used languages" />
+  <a href="https://github.com/wilderTorres18">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilderTorres18&layout=compact&theme=dark" alt="wilderTorres18' most used languages" />
   </a>
   
   <br/><br/>
 
-  <a href="https://github.com/Anuj3553">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anuj3553&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
+  <a href="https://github.com/wilderTorres18">
+    <img src="https://github-profile-trophy.vercel.app/?username=wilderTorres18&theme=darkhub&column=8" alt="GitHub Trophies" style="width: 90%;" />
   </a>
   
   <br/><br/>
