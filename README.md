@@ -231,22 +231,19 @@
   <a href="https://www.linkedin.com/in/anuj-verma-67493125a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/gunjesh843" target="_blank">
+  <a href="https://github.com/wilderTorres18" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
-  <a href="mailto:anujverma3553@gmail.com" target="_blank">
+  <a href="mailto:wildercherotorres18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://myportfolio-in.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=netlify&logoColor=white&style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/anuj.verma_official" target="_blank">
+  <a href="https://www.instagram.com/wtorres182" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/Anujver04515928" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
-  </a>
-  <a href="https://wa.me/918081718102" target="_blank">
+  <a href="https://wa.me/+51902086755" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
   </a>
   <a href="https://discord.com/users/anujv3553" target="_blank">
