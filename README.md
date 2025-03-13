@@ -67,13 +67,11 @@
   
   <br/><br/>
   
-  <img width="70%" src="https://leetcard.jacoblin.cool/wilderTorres18?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>
+  <!--<img width="70%" src="https://leetcard.jacoblin.cool/wilderTorres18?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats"/>  -->
 
   <img width="70%" src="https://www.codewars.com/users/wilderTorres18/badges/large" alt="Codewars Stats"/>
-
-  [![Codewars](https://www.codewars.com/users/wilderTorres18/badges/large)](https://www.codewars.com/users/wilderTorres18)
   
-  <br/>
+  <br/> 
   
   <img width="100%" src="https://raw.githubusercontent.com/Premkolte/Premkolte/output/snake.svg" alt="Snake animation"/>  
 </div>
