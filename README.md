@@ -228,7 +228,7 @@
 
 ## 🌍 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuj-verma-67493125a/" target="_blank">
+  <a href="https://www.linkedin.com/in/wilder-torres-67493125a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/wilderTorres18" target="_blank">
