@@ -12,7 +12,7 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Working On:** [Sunarp](https://www.gob.pe/sunarp)<br>
-- 💬 Ask Me About: Python, Java, C++, Web Development, Anime, and more. <br>
+- 💬 Ask Me About: Python, Javascript, Php, Web Development, Methodologies, Anime, and more. <br>
 - 📫 Reach Me At: [wildercherotorres18@gmail.com](mailto:wildercherotorres18@gmail.com) <br>
 - ⚡ Fun Fact: I’m **Wil** who loves intelligence and open-source! <br>
 - 💎 **Smart + Hardworking + Quick Adaptation + Critical Thinking** <br>
@@ -36,9 +36,9 @@
 ## 🔥 GitHub Stats 
 <div align="center">
 
-  <h3>📊 Anuj Verma's Awesome GitHub Stats</h3>
+  <h3>📊 Wilder Torres' Awesome GitHub Stats</h3>
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Anuj Verma's Awesome GitHub Stats" width="600"/>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/anuj3553?cardType=github&theme=github-dark&preferLogin=false" alt="Wilder Torres' Awesome GitHub Stats" width="600"/>
   </a>
 
   <!-- <h3>🔥 GitHub Streak 🔥</h3>
