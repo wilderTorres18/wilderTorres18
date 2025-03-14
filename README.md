@@ -101,8 +101,8 @@
       <br>Node JS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
-      <br>Prisma
+      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="55" height="55" />
+      <br>Laravel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
