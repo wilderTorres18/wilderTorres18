@@ -243,7 +243,7 @@
   <a href="https://wa.me/+51902086755" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
   </a>
-  <a href="https://discord.com/users/anujv3553" target="_blank">
+  <a href="https://discord.com/users/Torres_182023" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/>
   </a>
 </p>
