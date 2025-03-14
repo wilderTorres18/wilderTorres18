@@ -85,8 +85,8 @@
       <br>Next JS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React JS
+      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
+      <br>Vue
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
