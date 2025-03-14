@@ -177,9 +177,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### **Tools & Platforms:**
-![Digital Ocean](https://img.shields.io/badge/-Digital-ocean-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 ---
 
