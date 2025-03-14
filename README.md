@@ -123,8 +123,8 @@
       <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="md" />
-      <br>Angular
+      <img src="https://skillicons.dev/icons?i=r" width="55" height="55" alt="md" />
+      <br>R
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
