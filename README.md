@@ -131,8 +131,8 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="55" height="55" />
-      <br>Kubernetes
+      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
+      <br>Php
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
