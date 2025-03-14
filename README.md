@@ -189,8 +189,8 @@
         <a href="https://bitbox-in.netlify.app/"> 
           <img src="https://bitbox-in.netlify.app/assets/favicon-B48yql8W.ico" width="80px" alt="BitBox Logo"/><br>
         </a>
-          <b>BitBox</b><br>
-          <span style="color: #4CAF50;">BitBox is a dynamic collaboration platform built with <b>React</b>, <b>Node.js</b>, and <b>TailwindCSS</b>. It offers an intuitive environment where users can create, join, and manage projects collectively.</span>
+          <b>Bakery</b><br>
+          <span style="color: #4CAF50;">Bakery is a dynamic software built with <b>Javascript</b>, <b>php</b>,<b>Bootstrap 4</b>, and <b>TailwindCSS</b>. It offers an intuitive environment where admin users can management their products</span>
       </td> 
       <td align="center"> 
         <a href="https://getmechai.netlify.app/"> 
