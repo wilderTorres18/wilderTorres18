@@ -119,16 +119,16 @@
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>Javascript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=r" width="55" height="55" alt="md" />
       <br>R
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
-      <br>Docker
+      <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
+      <br>Python
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
