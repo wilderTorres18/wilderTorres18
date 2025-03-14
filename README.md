@@ -109,8 +109,8 @@
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="55" height="55" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
+      <br>Mysql
     </td>
   </tr>
   <tr>
