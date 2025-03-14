@@ -115,8 +115,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
+      <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="55" height="55" />
+      <br> Gitlab
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
